@@ -1,4 +1,4 @@
-# E-Gifting Platform
+(https://github.com/Manu270/giftedly-website/assets/112813299/04dc7cb7-ef4d-4e2a-9639-8de5ffe3de3c)# E-Gifting Platform
 
 ## Table of Contents
 
@@ -48,32 +48,57 @@ The infrastructure requirements for the e-gifting platform involve:
 
 ### Prerequisites
 
-- List any prerequisites needed to set up and run the platform.
+- XAMPP installed to run PHP scripts locally.
+- Basic knowledge of HTML, CSS, JavaScript for frontend development.
 
 ### Installation
 
-- Provide step-by-step instructions to install and configure the platform.
+1. Clone the repository.
+2. Configure XAMPP to run the PHP backend.
+3. Open the project directory in your preferred code editor.
+4. Start Apache and MySQL servers in XAMPP.
+5. Import the database schema provided (`database.sql`).
+6. Update database credentials in `config.php`.
+7. Access the platform via `http://localhost/e-gifting-platform`.
 
 ---
 
 ## Features
 
-- Highlight key features of the e-gifting platform based on defined objectives.
+- **User Authentication:** Secure login and registration functionality.
+- **Product Customization:** Allow users to personalize their e-gifts with messages, images, and custom options.
+- **Add to Cart:** Enable users to add selected items to their cart for purchase.
+- **Location Viewing:** Display location-based information relevant to the user's selections.
 
 ---
 
 ## Technologies Used
 
-- List the technologies and frameworks used in the development of the platform.
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Server Environment:** XAMPP
 
 ---
 
 ## Contributing
 
-- Outline guidelines for contributing to the project, such as how to report issues or submit pull requests.
+- Fork the repository.
+- Create a new branch (`git checkout -b feature/improvement`).
+- Make your changes and commit them (`git commit -am 'Add feature/improvement'`).
+- Push to the branch (`git push origin feature/improvement`).
+- Create a new Pull Request.
 
 ---
+![Screenshot 2024-04-20 222731](https://github.com/Manu270/giftedly-website/assets/112813299/d52bb707-0c53-4ca0-8151-bf633db05102)
+![Screenshot 2024-04-20 222841](https://github.com/Manu270/giftedly-website/assets/112813299/25ac46e4-fd8c-42d6-8981-ba4f7388a67e)
+![Screenshot 2024-04-20 223050](https://github.com/Manu270/giftedly-website/assets/112813299/17bd5568-c3c1-4361-9b8c-ebf3045dc7c8)
+![Screenshot 2024-04-20 221409](https://github.com/Manu270/giftedly-website/assets/112813299/6963dacc-e7dc-4d90-adcc-4337dc1749cf)
+![Screenshot 2024-04-20 221506](https://github.com/Manu270/giftedly-website/assets/112813299/a93e3cf5-8d31-42a6-b2c7-71f8c9375b56)
 
 ## License
 
-- Specify the licensing information for the project.
+This project is licensed under the [MIT License](LICENSE).
+
+
+
